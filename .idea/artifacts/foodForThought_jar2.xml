@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="foodForThought:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/foodForThought_jar2</output-path>
+    <root id="archive" name="foodForThought.jar">
+      <element id="module-output" name="foodForThought" />
+    </root>
+  </artifact>
+</component>
